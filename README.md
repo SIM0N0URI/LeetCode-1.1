@@ -26,9 +26,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3676-smallest-number-with-all-set-bits) |
+## String
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
