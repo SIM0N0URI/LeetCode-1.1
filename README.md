@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
+| [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
