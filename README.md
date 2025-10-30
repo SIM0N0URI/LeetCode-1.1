@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
