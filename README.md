@@ -36,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0008-string-to-integer-atoi) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
