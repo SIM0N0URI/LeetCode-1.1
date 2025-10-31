@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1603-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
