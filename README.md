@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
