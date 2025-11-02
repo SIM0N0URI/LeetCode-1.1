@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0020-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
