@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1603-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0120-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Trie
 |  |
 | ------- |
