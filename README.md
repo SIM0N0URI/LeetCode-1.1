@@ -96,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
