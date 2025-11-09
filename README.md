@@ -120,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0111-minimum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
