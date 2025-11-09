@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sorting
 |  |
