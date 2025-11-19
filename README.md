@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1603-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sorting
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/0242-valid-anagram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SIM0N0URI/LeetCode-1.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Tree
 |  |
 | ------- |
